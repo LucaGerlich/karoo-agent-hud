@@ -18,9 +18,9 @@ pending questions, and status -- no phone required.
  +--------------------------+   +--------------------------+   +--------------------------+
  |  WORKING                 |   |  WAITING                 |   |  OFFLINE                 |
  |                          |   |                          |   |                          |
- |  Claude Code        72%  |   |  Claude Code      ? x 2  |   |  Bridge Offline           |
- |  implementing             |   |  WAITING                  |   |  Last seen: 14:32         |
- |  Editing main.ts          |   |  Permission needed        |   |                          |
+ |  Claude Code        72%  |   |  Claude Code      ? x 2  |   |  Bridge Offline          |
+ |  implementing            |   |  WAITING                 |   |  Last seen: 14:32        |
+ |  Editing main.ts         |   |  Permission needed       |   |                          |
  +--------------------------+   +--------------------------+   +--------------------------+
 ```
 
