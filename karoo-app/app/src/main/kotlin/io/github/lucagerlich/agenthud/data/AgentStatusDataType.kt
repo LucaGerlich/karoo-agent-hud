@@ -1,4 +1,4 @@
-package io.github.lucagiorgettismp.agenthud.data
+package io.github.lucagerlich.agenthud.data
 
 import android.content.Context
 import androidx.compose.ui.unit.DpSize
@@ -12,9 +12,9 @@ import io.hammerhead.karooext.models.DataType
 import io.hammerhead.karooext.models.StreamState
 import io.hammerhead.karooext.models.UpdateGraphicConfig
 import io.hammerhead.karooext.models.ViewConfig
-import io.github.lucagiorgettismp.agenthud.network.AgentSummary
-import io.github.lucagiorgettismp.agenthud.network.BridgeClient
-import io.github.lucagiorgettismp.agenthud.ui.AgentStatusView
+import io.github.lucagerlich.agenthud.network.AgentSummary
+import io.github.lucagerlich.agenthud.network.BridgeClient
+import io.github.lucagerlich.agenthud.ui.AgentStatusView
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.combine

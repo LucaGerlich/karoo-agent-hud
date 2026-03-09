@@ -8,19 +8,27 @@ karoo-app/.gradle/
 karoo-app/build/
 karoo-app/app/build/
 karoo-app/local.properties
+karoo-app/captures/
 
 # IDE
 .idea/
 *.iml
 .vscode/
+*.swp
+*.swo
+*~
 
 # OS
 .DS_Store
 Thumbs.db
+ehthumbs.db
+Desktop.ini
 
 # Environment
 .env
-.env.local
+.env.*
+!.env.example
+!.editorconfig
 
 # Android
 *.apk
@@ -31,3 +39,9 @@ Thumbs.db
 
 # Logs
 *.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Test coverage
+coverage/
+.nyc_output/

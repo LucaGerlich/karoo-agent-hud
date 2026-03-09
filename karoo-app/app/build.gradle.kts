@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "io.github.lucagiorgettismp.agenthud"
+    namespace = "io.github.lucagerlich.agenthud"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "io.github.lucagiorgettismp.agenthud"
+        applicationId = "io.github.lucagerlich.agenthud"
         minSdk = 23
         targetSdk = 34
         versionCode = 1

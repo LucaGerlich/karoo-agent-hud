@@ -1,4 +1,4 @@
-package io.github.lucagiorgettismp.agenthud.network
+package io.github.lucagerlich.agenthud.network
 
 import kotlinx.serialization.Serializable
 

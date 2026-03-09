@@ -1,4 +1,4 @@
-package io.github.lucagiorgettismp.agenthud.ui
+package io.github.lucagerlich.agenthud.ui
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
@@ -17,7 +17,7 @@ import androidx.glance.text.FontWeight
 import androidx.glance.text.Text
 import androidx.glance.text.TextStyle
 import androidx.glance.unit.ColorProvider
-import io.github.lucagiorgettismp.agenthud.network.AgentSummary
+import io.github.lucagerlich.agenthud.network.AgentSummary
 
 @Composable
 fun AgentStatusView(summary: AgentSummary?, isConnected: Boolean) {

@@ -1,10 +1,10 @@
-package io.github.lucagiorgettismp.agenthud
+package io.github.lucagerlich.agenthud
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import io.github.lucagiorgettismp.agenthud.network.BridgeClient
-import io.github.lucagiorgettismp.agenthud.ui.ConfigScreen
+import io.github.lucagerlich.agenthud.network.BridgeClient
+import io.github.lucagerlich.agenthud.ui.ConfigScreen
 
 class MainActivity : ComponentActivity() {
     private lateinit var bridgeClient: BridgeClient

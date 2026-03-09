@@ -1,11 +1,11 @@
-package io.github.lucagiorgettismp.agenthud.extension
+package io.github.lucagerlich.agenthud.extension
 
 import android.util.Log
 import io.hammerhead.karooext.extension.KarooExtension
-import io.github.lucagiorgettismp.agenthud.data.AgentProgressDataType
-import io.github.lucagiorgettismp.agenthud.data.AgentQuestionsDataType
-import io.github.lucagiorgettismp.agenthud.data.AgentStatusDataType
-import io.github.lucagiorgettismp.agenthud.network.BridgeClient
+import io.github.lucagerlich.agenthud.data.AgentProgressDataType
+import io.github.lucagerlich.agenthud.data.AgentQuestionsDataType
+import io.github.lucagerlich.agenthud.data.AgentStatusDataType
+import io.github.lucagerlich.agenthud.network.BridgeClient
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job

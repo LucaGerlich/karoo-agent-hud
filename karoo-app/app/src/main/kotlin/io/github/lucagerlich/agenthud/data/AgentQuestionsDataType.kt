@@ -1,11 +1,11 @@
-package io.github.lucagiorgettismp.agenthud.data
+package io.github.lucagerlich.agenthud.data
 
 import io.hammerhead.karooext.extension.DataTypeImpl
 import io.hammerhead.karooext.internal.Emitter
 import io.hammerhead.karooext.models.DataPoint
 import io.hammerhead.karooext.models.DataType
 import io.hammerhead.karooext.models.StreamState
-import io.github.lucagiorgettismp.agenthud.network.BridgeClient
+import io.github.lucagerlich.agenthud.network.BridgeClient
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
