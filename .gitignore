@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+bridge/dist/
+karoo-app/.gradle/
+karoo-app/build/
+karoo-app/app/build/
+karoo-app/local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Android
+*.apk
+*.aab
+*.keystore
+*.jks
+!karoo-app/gradle/wrapper/gradle-wrapper.jar
+
+# Logs
+*.log

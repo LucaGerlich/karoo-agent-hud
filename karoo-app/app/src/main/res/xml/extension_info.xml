@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionInfo
+    displayName="@string/extension_name"
+    icon="@drawable/ic_launcher_foreground"
+    id="agent-hud"
+    scansDevices="false">
+    <DataType
+        description="@string/agent_progress_description"
+        displayName="@string/agent_progress"
+        graphical="false"
+        icon="@drawable/ic_launcher_foreground"
+        typeId="agent-progress" />
+    <DataType
+        description="@string/agent_questions_description"
+        displayName="@string/agent_questions"
+        graphical="false"
+        icon="@drawable/ic_launcher_foreground"
+        typeId="agent-questions" />
+    <DataType
+        description="@string/agent_status_description"
+        displayName="@string/agent_status"
+        graphical="true"
+        icon="@drawable/ic_launcher_foreground"
+        typeId="agent-status" />
+    <BonusAction
+        displayName="@string/action_cycle_agent"
+        actionId="cycle-agent" />
+    <BonusAction
+        displayName="@string/action_approve"
+        actionId="approve-action" />
+</ExtensionInfo>
